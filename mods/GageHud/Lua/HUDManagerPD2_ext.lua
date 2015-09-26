@@ -158,7 +158,7 @@ end
 
 --TODO: Rewrite rest of options
 HUDManager.ListOptions = HUDManager.ListOptions or {
-	right_list_height_offset = 0,     --margin from top for the right list
+	right_list_height_offset = 40,     --margin from top for the right list
 	right_list_scale = 1,    --size scale of right list
 	left_list_height_offset = 40,      --margin from top for the left list
 	left_list_scale = 1,       --size scale of left list
